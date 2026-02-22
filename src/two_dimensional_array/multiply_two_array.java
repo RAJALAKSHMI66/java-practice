@@ -34,7 +34,7 @@ public class multiply_two_array {
             }
             colmultiply[j]=colmul;
         }
-        System.out.println("Rows sum:"+Arrays.toString(rowmultiply));
-        System.out.println("column sum:"+Arrays.toString(colmultiply));
+        System.out.println("Rows mul:"+Arrays.toString(rowmultiply));
+        System.out.println("column mul:"+Arrays.toString(colmultiply));
     }
 }

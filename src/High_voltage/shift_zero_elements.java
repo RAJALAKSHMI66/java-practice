@@ -1,7 +1,5 @@
 package High_voltage;
-
 import java.util.*;
-
 public class shift_zero_elements {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
